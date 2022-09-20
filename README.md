@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yogskr
 - 👀 I’m interested in coding, music, and game
 - 🌱 I’m currently learning coding
-- 📫 How to reach me sumfvckyea@gmail.com
+- 📫 How to reach me yogakrisanta@gmail.com
 
 <!---
 yogskr/yogskr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
