@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yogskr
+- 👋 Hi, I’m Yoga
 - 👀 I’m interested in coding, music, and game
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning web development
 - 📫 How to reach me yogakrisanta@gmail.com
 
 <!---
