@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yoga
-- 👀 I’m interested in coding, music, and game
+- 👀 I’m interested in coding, writing, music, and game
 - 🌱 I’m currently learning web development
 - 📫 How to reach me yogakrisanta@gmail.com
 
