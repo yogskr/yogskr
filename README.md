@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [https://yogskr.github.io/personal-website](https://yogskr.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://yogskr.github.io/portfolio](https://yogskr.github.io/portfolio)
 
 - 📫 How to reach me **yogakrisanta@gmail.com**
 
