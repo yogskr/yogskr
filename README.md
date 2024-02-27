@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogskr&label=Profile%20views&color=0e75b6&style=flat" alt="yogskr" /> </p>
 
-- 🌱 I’m currently learning **Codecademy's Front-End Engineer Career Path, Udemy's JavaScript Bootcamp, and Udemy's Web Development Bootcamp**
+- 🌱 Currently learning front-end web development and building various front-end projects using **HTML**, **CSS**, **JavaScript**, **React** and **Tailwind CSS**.
 
-- 👯 I’m looking to collaborate on **open-source projects**
-
-- 👨‍💻 All of my projects are available at [https://yogskr.github.io/portfolio](https://yogskr.github.io/portfolio)
+- 👯 Looking for contributions on **open-source projects**
 
 - 📫 How to reach me **yogakrisanta@gmail.com**
 
