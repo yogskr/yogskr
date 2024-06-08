@@ -7,7 +7,7 @@
 
 - 👯 Looking for contributions on **open-source projects**
 
-- 📫 How to reach me **yogakrisanta@gmail.com**
+- 📫 How to reach me **upnflow@gmail.com** or add **upnflow** on Discord
 
 - ⚡ Fun fact **I'm an INFJ-T**
 
