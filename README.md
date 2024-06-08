@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yoga Krisanta</h1>
-<h3 align="center">With a passion for crafting visually engaging user experience, I specialize in turning designs into interactive, responsive websites. Proficient in but not limited to HTML, CSS, and JavaScript, I'm dedicated to creating intuitive interfaces that seamlessly blend creativity with functionality.</h3>
+<h1 align="center">Hi 👋, I'm Yoga</h1>
+<h3 align="center">With a passion for crafting visually engaging user experiences, I specialize in turning designs into interactive, responsive websites. Proficient in but not limited to HTML, CSS, and JavaScript, I'm dedicated to creating intuitive interfaces that seamlessly blend creativity with functionality.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogskr&label=Profile%20views&color=0e75b6&style=flat" alt="yogskr" /> </p>
 
