@@ -2,7 +2,7 @@ Hi 👋, I'm Yoga
 
 With a passion for crafting visually engaging user experiences, I specialize in turning designs into interactive, responsive websites. Proficient in but not limited to HTML, CSS, and JavaScript, I'm dedicated to creating intuitive interfaces that seamlessly blend creativity with functionality.
 
-- 🌱 Currently learning front-end web development and building various front-end projects using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Nextjs**.
+- 🌱 Building various front-end projects using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Nextjs**.
 
 - 👯 Looking for contributions on **open-source projects**
 
