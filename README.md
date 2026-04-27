@@ -1,14 +1,16 @@
 Hi 👋, I'm Yoga
 
-With a passion for crafting visually engaging user experiences, I specialize in turning designs into interactive, responsive websites. Proficient in but not limited to HTML, CSS, and JavaScript, I'm dedicated to creating intuitive interfaces that seamlessly blend creativity with functionality.
+An **SEO content writer** and a **full-stack web developer**. I fell in love with *coding* after printing the first "Hello World!" in a browser with HTML, CSS, and JavaScript. This is my story, my journey.
 
-- 🌱 Building various front-end projects using **HTML**, **CSS**, **JavaScript**, **React**, **Tailwind CSS**, and **Nextjs**.
+- 🌱 Learning and building full-stack projects
+  
+- 💻 Mastering **JavaScript**, **React JS**, **Node.js**, **Express.js**, and **Astro**
 
 - 👯 Looking for contributions on **open-source projects**
 
 - 📫 How to reach me **upnflow@gmail.com** or add **upnflow** on Discord
 
-- ⚡ Fun fact **I'm an INFJ-T**
+- 📝 "Go on, be wrong. 'Cause tomorrow you'll be right." - Go Now by Adam Levins
 
 <!---
 yogskr/yogskr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
